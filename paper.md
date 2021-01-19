@@ -18,7 +18,7 @@ affiliations:
    index: 2
 date: 11 November 2020
 bibliography: paper.bib
-csl: ams-review.csl
+csl: cambridge-university-press-numeric.csl
 ---
 
 # Summary
@@ -29,7 +29,22 @@ All the basic notions of number, from the integers to the complex, are equipped 
 
 An important challenge for the application of commutativity up-to-coherent-homotopies and related notions, which are often defined non-constructively, is to describe them in effective terms suitable for concrete computations. `ComCH`, a dependency-free `Python 3` package, is a specialized computer algebra system that serves to bridge the gap between theoretical concepts and concrete applications in this context, by providing effective models for complexes parameterizing different levels of homotopical commutativity.
 
-Some theoretical concepts modeled in this work have already found modern applications in, for example, topological data analysis [@mm_persistence], condensed matter physics [@kapustin_thorngren], and motion planning [@g_lm_rm], with a key notion being that of cohomology operation at the chain level. See [@mm], [@brumfiel_mm_morgan], and [@kaufmann_mm] for more details. This notion is carefully implemented in `ComCH` and serves as a primary example of its capabilities.
+Some theoretical concepts modeled in this work have already found modern applications in, for example, topological data analysis [Medina-Mardones -@mm_persistence], condensed matter physics [@kapustin_thorngren], and motion planning [@g_lm_rm], with a key notion being that of cohomology operation at the chain level. See [@mm], [@brumfiel_mm_morgan], and `[@kaufmann_mm]` for more details. This notion is carefully implemented in `ComCH` and serves as a primary example of its capabilities.
+
+asdasd
+
+@mm_persistence says blah.
+
+lnlk 
+
+-@mm_persistence says blah.
+
+[-@mm_persistence says blah.]
+
+asdasd
+
+@mm_persistence [p. 33] says blah.
+
 
 # Mathematical overview
 
